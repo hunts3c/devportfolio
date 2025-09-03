@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/rhunt0",
   },
   aboutMe:
-    "I am a Senior Computer Science & Cybersecurity major at The University of Texas at San Antonio (UTSA) and I am currently interning as an IT Auditor. I've gained hands-on experience with risk-based IT Audit assessments, frameworks, and full-stack web developing skills.",
+    "I am a Senior Computer Science & Cybersecurity student at The University of Texas at San Antonio (UTSA) and I am currently interning as an IT Auditor. I've gained hands-on experience with risk-based IT Audit assessments, frameworks, and full-stack web developing skills.",
   skills: ["Javascript", "React", "Next.js", "Python", "Linux", "SQL", "NIST"],
   projects: [
     {
@@ -32,7 +32,7 @@ export const siteConfig = {
       description:
         "Placed 2nd out of 16 in the TracerFIRE cybersecurity competition hosted by Sandia National Laboratories, focused on digital forensics and incident response, utilizing tools such as Elastic, Velociraptor, Malcolm, Detect It Easy to uncover the story of a simulated company's live cyber attack.",
       link: "https://www.linkedin.com/posts/ryananthunt_this-weekend-i-competed-in-the-tracerfire-activity-7302135454970060800-mpQe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEapH0EBE3YP-Lwgk0Lr8Q4nvL9GIrNacac",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Digital Forensics", "Incident Response", "Elastic"],
     },
   ],
   experience: [
