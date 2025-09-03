@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "ryanahunt@proton.me",
     linkedin: "https://linkedin.com/in/ryananthunt",
     twitter: "https://x.com/rhunt0",
-    github: "https://github.com/TempifyOS",
+    github: "https://github.com/rhunt0",
   },
   aboutMe:
     "I am a Senior Computer Science & Cybersecurity major at The University of Texas at San Antonio (UTSA) and I am currently interning as an IT Auditor. I've gained hands-on experience with risk-based IT Audit assessments, frameworks, and full-stack web developing skills.",
