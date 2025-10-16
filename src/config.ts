@@ -6,10 +6,10 @@ export const siteConfig = {
   social: {
     email: "ryanahunt@proton.me",
     linkedin: "https://linkedin.com/in/ryananthunt",
-    twitter: "https://x.com/rhunt0",
-    github: "https://github.com/rhunt0",
-    cyberdefenders: "https://cyberdefenders.org/p/hunts3c",
-    tryhackme: "https://tryhackme.com/p/huntR"
+    twitter: "https://x.com/recusiive",
+    github: "https://github.com/recursiive",
+    cyberdefenders: "https://cyberdefenders.org/p/recursiive",
+    tryhackme: "https://tryhackme.com/p/recusiive"
   },
   aboutMe:
     "I am a Senior Computer Science & Cybersecurity student at The University of Texas at San Antonio (UTSA) and I am currently interning as an IT Auditor. I've gained hands-on experience with risk-based IT Audit assessments, frameworks, and full-stack web developing skills.",
